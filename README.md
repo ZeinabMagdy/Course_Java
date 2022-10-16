@@ -6,4 +6,5 @@ BorderLayout. Place one panel in the south of the frame and the other in the
 
 center.
 
-![Ex12_02](https://user-images.githubusercontent.com/110781912/196047507-203c1dda-5293-4bc0-a2a4-449ab2a15601.png)
+![Ex12_02](https://user-images.githubusercontent.com/110781912/196047645-9b98d101-764d-46e1-9eec-6c3b3d71a41c.png)
+
